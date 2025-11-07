@@ -4,6 +4,7 @@
 # Claude Code
 CLAUDE.md
 .claude/
+.playwright-mcp/
 
 # Python
 __pycache__/
